@@ -1,0 +1,45 @@
+#!/usr/bin/env python3
+
+# identificar termos
+# guardar termos e definicoes
+# analisar texto medico
+# processar texto médico
+# fazer match dos termos
+# criar página html
+
+
+import re, json
+
+ficheiro = open("dicionario_medico.xml","r")
+
+texto =ficheiro.read()
+
+texto=re.sub(r'<(text.+?)>',r'',texto)
+
+texto=re.sub(r'</text>',r'',texto)
+
+texto=re.sub(r'</page>',r'',texto)
+
+texto=re.sub(r'<page.+>',r'',texto)
+
+texto=re.sub(r'\n',r' ',texto) #substitui-se por um espaço para se evitar a concatenação de palavras separadas simplesmente por um \n
+
+#print(texto)
+
+termos_dic={}
+for termo,definicao in re.findall(r'<b>(.+?)</b>([^<>]+)',texto): #vamos buscar (termo,definicao) - lista de tuplos
+	#termos.append((termo.strip(),definicao.strip()))
+	termos_dic[termo.strip()] = {"desc":definicao.strip()}
+
+#for key,value in termos_dic.items():
+
+
+
+file =open('jsonfile.json','w')
+json.dump(termos_dic,file,indent=4,ensure_ascii=False)
+#filejson=open('jsonfile.json','r')
+
+#v=json.load(filejson)
+#print(v)
+print(termos_dic)
+print(len(termos_dic))
