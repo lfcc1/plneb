@@ -1,0 +1,12 @@
+
+{% extends 'layout.html' %}
+
+{% block body %}
+<ul>
+{% for termo in termos %}
+    <li><a href="/termos/{{termo}}">{{termo}}</a></li>
+{% endfor %}
+</ul>
+
+{% endblock %}
+
