@@ -1,0 +1,37 @@
+
+{% extends 'layout.html' %}
+
+{% block body %}
+
+    <table id="dataTable" class="table">
+        <thead>
+            <tr>
+            <th>
+                Termo
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Traduções
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+            {% for k,v in termos.items()%}
+            <tr>
+                <td>
+                    {{k}}
+                </td>
+                <td>
+                    {{v["desc"]}}
+                </td>
+                <td>
+                    {{v["en"]}}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock %}
