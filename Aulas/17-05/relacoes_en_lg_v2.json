@@ -1,0 +1,1718 @@
+{
+    "Dursley": {
+        "Dudley": 8,
+        "Potter": 3,
+        "Harry": 1,
+        "Potters": 1,
+        "Dursleys": 1,
+        "Uncle Vernon": 1
+    },
+    "Dudley": {
+        "Dursley": 8,
+        "Potters": 1,
+        "Next Door": 1,
+        "Harry": 40,
+        "Uncle Vernon": 21,
+        "Aunt Petunia": 11,
+        "Piers Polkiss": 1,
+        "Dursleys": 5,
+        "Piers": 5,
+        "Figg": 3,
+        "Uncle Vernon’s": 4,
+        "Harry Potter": 2,
+        "Dennis": 1,
+        "Malcolm": 1,
+        "Gordon": 1,
+        "Harry Hunting": 1,
+        "Marge": 2,
+        "Aunt": 1,
+        "Hagrid": 1,
+        "Ron": 1,
+        "Draco Malfoy": 1
+    },
+    "Dursleys": {
+        "Potters": 2,
+        "Dumbledore": 1,
+        "Harry": 18,
+        "Privet Drive": 1,
+        "Dursley": 1,
+        "Piers": 1,
+        "Dudley": 5,
+        "Uncle Vernon": 1,
+        "Aunt Petunia": 2,
+        "Uncle Vernon’s": 2,
+        "Marge": 1,
+        "Hagrid": 4,
+        "Hogwarts": 1,
+        "Hedwig": 1,
+        "Snape": 1,
+        "Voldemort": 1
+    },
+    "Potters": {
+        "Dursleys": 2,
+        "Dudley": 1,
+        "Dursley": 1,
+        "Malfoy": 1,
+        "Harry": 1
+    },
+    "Potter": {
+        "Dursley": 3,
+        "Doris Crockford": 1,
+        "Diggle": 1,
+        "Dedalus Diggle": 1,
+        "Snape": 1,
+        "Oliver Wood": 1,
+        "McGonagall": 1,
+        "Weasleys": 1,
+        "Longbottom": 1,
+        "Gryffindor": 1,
+        "Dumbledore": 1
+    },
+    "baker": {},
+    "Harry": {
+        "Dursley": 1,
+        "Harry Potter Day": 1,
+        "Dumbledore": 23,
+        "Dursleys": 18,
+        "Hagrid": 82,
+        "McGonagall": 10,
+        "Dudley": 40,
+        "Uncle Vernon": 28,
+        "Aunt Petunia": 9,
+        "Figg": 3,
+        "Paws": 1,
+        "Piers": 2,
+        "Uncle Vernon’s": 4,
+        "Marge": 1,
+        "H. “Hurry up": 1,
+        "Dad": 1,
+        "H. Potter": 2,
+        "Minerva McGonagall": 1,
+        "yeh": 6,
+        "peppermint humbugs": 1,
+        "Prophet Harry": 1,
+        "Gringotts": 4,
+        "Tom": 2,
+        "Hogwarts": 6,
+        "Dedalus Diggle’s": 1,
+        "Doris Crockford": 2,
+        "Quirrell": 21,
+        "Griphook": 1,
+        "Malkin": 3,
+        "Mmm": 1,
+        "Madam Malkin": 2,
+        "Hufflepuff": 1,
+        "Vindictus Viridian": 1,
+        "Knuts": 2,
+        "Ollivander": 6,
+        "Diagon Alley": 2,
+        "Harry Potted": 1,
+        "Ron": 150,
+        "Bertie Bott’s": 1,
+        "Licorice Wands": 1,
+        "Harry Potter": 1,
+        "Scabbers": 2,
+        "Neville": 25,
+        "Hermione Granger": 1,
+        "Crabbe": 5,
+        "Goyle": 5,
+        "Hermione": 76,
+        "Brocklehurst": 1,
+        "Mandy": 1,
+        "Ravenclaw": 1,
+        "Gryffindor": 10,
+        "Finnigan": 1,
+        "Seamus": 8,
+        "Not Slytherin": 1,
+        "Thomas": 1,
+        "GRYFFINDOR": 1,
+        "Percy Weasley": 2,
+        "Zabini": 1,
+        "Blaise": 1,
+        "Malfoy": 33,
+        "Snape": 33,
+        "Slytherin": 2,
+        "Hedwig": 3,
+        "Flitwick": 3,
+        "Charlie": 1,
+        "Dean": 2,
+        "Fred": 7,
+        "George Weasley": 2,
+        "Wood": 17,
+        "Norris": 3,
+        "Keeper": 1,
+        "Seamus Finnigan": 3,
+        "Parvati Patil": 1,
+        "Percy": 2,
+        "Seeker": 3,
+        "Quidditch": 2,
+        "Oliver": 1,
+        "George": 2,
+        "Marcus Flint": 4,
+        "Angelina": 1,
+        "Fred Weasley": 1,
+        "Higgs": 1,
+        "Weasleys": 3,
+        "Lee Jordan": 1,
+        "Nicolas Flamel": 3,
+        "Flamel": 2,
+        "Weasley": 2,
+        "Potters": 1,
+        "NICHOLAS FLAMBL Dumbledore": 1,
+        "Gryffindors": 1,
+        "Norbert": 3,
+        "Fang": 4,
+        "Ronan": 2,
+        "Bane": 2,
+        "Firenze": 1,
+        "Voldemort": 10,
+        "Binns": 1,
+        "Peeves": 1,
+        "Madam Pomfrey": 1,
+        "Draco Malfoy": 1
+    },
+    "Harvey": {},
+    "Harold": {},
+    "Next Door": {
+        "Dudley": 1
+    },
+    "Jim McGuffin": {},
+    "Jim": {},
+    "Howard": {},
+    "Albus Dumbledore": {},
+    "Dumbledore": {
+        "McGonagall": 6,
+        "Hagrid": 8,
+        "Harry": 23,
+        "Dursleys": 1,
+        "yeh": 3,
+        "HOGWARTS": 1,
+        "Nicolas Flamel": 4,
+        "Morgana": 1,
+        "Paracelsus": 1,
+        "Merlin": 1,
+        "Gryffindor": 1,
+        "Ravenclaw": 2,
+        "Weasley": 1,
+        "Percy": 1,
+        "Flitwick": 1,
+        "Ron": 5,
+        "Nicolas Flamel’V’ Hermione": 1,
+        "Gringotts": 1,
+        "Snape": 1,
+        "Gryffindors": 1,
+        "Malfoy": 1,
+        "Hermione": 2,
+        "Neville": 1,
+        "Potter": 1,
+        "Hedwig": 2,
+        "Nicolas": 1,
+        "Harry Potter": 1,
+        "Hufflepuff": 1
+    },
+    "McGonagall": {
+        "Dumbledore": 6,
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling": 1,
+        "Harry": 10,
+        "Hagrid": 4,
+        "Hogwarts": 2,
+        "Hermione Granger": 1,
+        "Hermione": 1,
+        "Snape": 3,
+        "Malfoy": 4,
+        "Patil": 1,
+        "Weasley": 2,
+        "Crabbe": 1,
+        "Goyle": 1,
+        "Wood": 3,
+        "Gryffindor": 2,
+        "Potter": 1,
+        "Ron": 1,
+        "Granger": 2,
+        "Lee Jordan": 1,
+        "Jordan": 1,
+        "Flitwick": 1,
+        "Neville": 2
+    },
+    "Dedalus Diggle": {
+        "Potter": 1,
+        "Diggle": 1
+    },
+    "Voldemort": {
+        "Harry Potter": 1,
+        "Snape": 6,
+        "Ron": 1,
+        "Harry": 10,
+        "Hagrid": 3,
+        "Dursleys": 1,
+        "Quirrell": 3
+    },
+    "Madam Pomfrey": {
+        "Slytherin": 1,
+        "Malfoy": 1,
+        "Ron": 1,
+        "Hermione": 1,
+        "Harry": 1
+    },
+    "James Potter": {},
+    "Harry Potter": {
+        "Voldemort": 1,
+        "McGonagall": 1,
+        "the Philosophers Stone -J.K. Rowling": 8,
+        "Dudley": 2,
+        "Uncle Page": 1,
+        "the Philosophers Stone -J.K. Rowling Vernon": 1,
+        "Harry": 1,
+        "the Philosophers Stone -J.K.": 1,
+        "Rowling Harry": 1,
+        "Hoggy Warty Hogwarts": 1,
+        "Weasley": 1,
+        "the Philosophers Stone -J.K. Rowling Malfoy": 1,
+        "Neville": 1,
+        "Hermione": 1,
+        "Hermione Granger": 1,
+        "Firenze": 1,
+        "Dumbledore": 1
+    },
+    "Hagrid": {
+        "Dumbledore": 8,
+        "Harry": 82,
+        "McGonagall": 4,
+        "Dursleys": 4,
+        "Vernon Dursley": 2,
+        "Uncle Vernon": 2,
+        "Dudley": 1,
+        "peppermint humbugs": 1,
+        "Mm": 1,
+        "Prophet Harry": 1,
+        "Gringotts": 3,
+        "yeh": 3,
+        "Tom": 1,
+        "Hogwarts": 3,
+        "Quirrell": 1,
+        "Doris Crockford": 1,
+        "Diagon Alley": 2,
+        "Griphook": 1,
+        "Malkin": 1,
+        "Better Hufflepuff": 1,
+        "Vindictus Viridian": 1,
+        "Knuts": 1,
+        "Ollivander": 2,
+        "Ron": 18,
+        "Weasleys": 1,
+        "Fang": 6,
+        "Snape": 9,
+        "Charlie": 2,
+        "Malfoy": 3,
+        "Hermione": 11,
+        "Bin watchin’": 1,
+        "Neville": 4,
+        "Flitwick": 1,
+        "Flamel": 1,
+        "bin": 1,
+        "Hedwig": 1,
+        "Norbert": 4,
+        "Yeh": 2,
+        "Ronan": 6,
+        "Hullo": 1,
+        "Bane": 1,
+        "Mighta": 1,
+        "Voldemort": 3,
+        "Fred Weasley": 1,
+        "Bertie Bott’s": 1
+    },
+    "the Philosophers Stone -J.K. Rowling": {
+        "McGonagall": 1,
+        "Harry Potter": 8,
+        "Hoggy Warty Hogwarts": 1,
+        "Weasley": 1,
+        "Neville": 1,
+        "Hermione": 1
+    },
+    "Harry Potter Day": {
+        "Harry": 1
+    },
+    "Privet Drive": {
+        "Dursleys": 1
+    },
+    "Dudley Dursley": {},
+    "Uncle Vernon": {
+        "Harry": 28,
+        "Dudley": 21,
+        "Aunt Petunia": 9,
+        "Marge": 2,
+        "H. “Hurry up": 1,
+        "Dursleys": 1,
+        "Uncle Vernon’s": 1,
+        "Aunt": 1,
+        "H. Potter": 1,
+        "Hagrid": 2,
+        "Dursley": 1,
+        "Hogwarts": 1,
+        "Albus Dumbled": 1,
+        "Prophet Harry": 1,
+        "Hermione": 1
+    },
+    "Comb": {},
+    "Aunt Petunia": {
+        "Dudley": 11,
+        "Harry": 9,
+        "Uncle Vernon": 9,
+        "Piers Polkiss": 1,
+        "Marge": 2,
+        "Vernon": 1,
+        "Dursleys": 2,
+        "Uncle Vernon’s": 1
+    },
+    "Darling": {
+        "Marge": 1
+    },
+    "Marge": {
+        "Darling": 1,
+        "Uncle Vernon": 2,
+        "Uncle Vernon’s": 2,
+        "Harry": 1,
+        "Aunt Petunia": 2,
+        "Dursleys": 1,
+        "Dudley": 2
+    },
+    "Figg": {
+        "Harry": 3,
+        "Paws": 1,
+        "Dudley": 3
+    },
+    "Paws": {
+        "Harry": 1,
+        "Figg": 1
+    },
+    "Vernon": {
+        "Aunt Petunia": 1
+    },
+    "Yvonne": {},
+    "Mummy": {},
+    "Piers Polkiss": {
+        "Aunt Petunia": 1,
+        "Dudley": 1
+    },
+    "Piers": {
+        "Harry": 2,
+        "Dursleys": 1,
+        "Dudley": 5,
+        "Uncle Vernon’s": 1
+    },
+    "Uncle Vernon’s": {
+        "Harry": 4,
+        "Dudley": 4,
+        "Piers": 1,
+        "Marge": 2,
+        "Dursleys": 2,
+        "Uncle Vernon": 1,
+        "Aunt Petunia": 1
+    },
+    "Boa Constrictor": {},
+    "DUDLEY": {},
+    "DURSLEY": {},
+    "Dennis": {
+        "Malcolm": 1,
+        "Gordon": 1,
+        "Dudley": 1
+    },
+    "Malcolm": {
+        "Dennis": 1,
+        "Gordon": 1,
+        "Dudley": 1
+    },
+    "Gordon": {
+        "Dennis": 1,
+        "Malcolm": 1,
+        "Dudley": 1
+    },
+    "Harry Hunting": {
+        "Dudley": 1
+    },
+    "Ickle Dudleykins": {},
+    "H. Potter": {
+        "Harry": 2,
+        "Uncle Vernon": 1
+    },
+    "H. “Hurry up": {
+        "Harry": 1,
+        "Uncle Vernon": 1
+    },
+    "Dad": {
+        "Harry": 1
+    },
+    "Aunt": {
+        "Uncle Vernon": 1,
+        "Dudley": 1
+    },
+    "Uncle Page": {
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling Vernon": 1
+    },
+    "the Philosophers Stone -J.K. Rowling Vernon": {
+        "Uncle Page": 1,
+        "Harry Potter": 1
+    },
+    "Budge": {
+        "yeh great lump": 1
+    },
+    "yeh great lump": {
+        "Budge": 1
+    },
+    "Yeh": {
+        "Hagrid": 2
+    },
+    "Rubeus Hagrid": {},
+    "yeh": {
+        "I’m Keeper of Keys at Hogwarts": 1,
+        "Hogwarts": 2,
+        "Yeh don’": 1,
+        "Dumbledore": 3,
+        "Harry": 6,
+        "yeh everythin’": 1,
+        "Gringotts": 2,
+        "Hagrid": 3,
+        "Quirrell": 1,
+        "Ronan": 1,
+        "bin killin’": 1
+    },
+    "I’m Keeper of Keys at Hogwarts": {
+        "yeh": 1,
+        "Hogwarts": 1
+    },
+    "Hogwarts": {
+        "yeh": 2,
+        "I’m Keeper of Keys at Hogwarts": 1,
+        "Albus Dumbled": 1,
+        "Uncle Vernon": 1,
+        "Gringotts": 2,
+        "Dumbledore fer Minister": 1,
+        "Tom": 1,
+        "Hagrid": 3,
+        "Harry": 6,
+        "Hedwig": 1,
+        "Dursleys": 1,
+        "McGonagall": 2,
+        "Patil": 1,
+        "Weasley": 1,
+        "Malfoy": 1,
+        "Ron": 1,
+        "Snape": 1,
+        "Gryffindor": 1
+    },
+    "Yeh don’": {
+        "yeh": 1
+    },
+    "yeh don’": {},
+    "Vernon Dursley": {
+        "Hagrid": 2
+    },
+    "Chf": {},
+    "Minerva McGonagall": {
+        "Harry": 1
+    },
+    "Hagrid Hagrid": {},
+    "Lily": {},
+    "yeh everythin’": {
+        "yeh": 1
+    },
+    "Reckon Dumbledore’s": {},
+    "ter Dumbledore ter": {},
+    "McKinnons": {},
+    "yeh ter": {},
+    "Codswallop": {},
+    "Albus Dumbled": {
+        "Hogwarts": 1,
+        "Uncle Vernon": 1
+    },
+    "kip": {},
+    "peppermint humbugs": {
+        "Hagrid": 1,
+        "Harry": 1
+    },
+    "Knuts": {
+        "Sickles": 2,
+        "Hagrid": 1,
+        "Harry": 2
+    },
+    "Mm": {
+        "Hagrid": 1
+    },
+    "Gringotts": {
+        "yeh": 2,
+        "Hogwarts": 2,
+        "Fer Dumbledore": 1,
+        "Hagrid": 3,
+        "Harry": 4,
+        "Griphook": 1,
+        "Bill": 1,
+        "Ron": 3,
+        "GRINGOTTS": 1,
+        "Dumbledore": 1
+    },
+    "Fer Dumbledore": {
+        "Gringotts": 1
+    },
+    "Prophet Harry": {
+        "Harry": 1,
+        "Hagrid": 1,
+        "Uncle Vernon": 1
+    },
+    "Dumbledore fer Minister": {
+        "Hogwarts": 1
+    },
+    "Bungler": {},
+    "askin’ fer": {
+        "yeh didn’": 1
+    },
+    "Miranda Goshawk": {
+        "Adalbert Waffling": 1,
+        "Phyllida Spore Magical Drafts": 1,
+        "Newt Scamander": 1,
+        "Quentin Trimble": 1
+    },
+    "Adalbert Waffling": {
+        "Miranda Goshawk": 1,
+        "Phyllida Spore Magical Drafts": 1,
+        "Newt Scamander": 1,
+        "Quentin Trimble": 1
+    },
+    "Phyllida Spore Magical Drafts": {
+        "Miranda Goshawk": 1,
+        "Adalbert Waffling": 1,
+        "Newt Scamander": 1,
+        "Quentin Trimble": 1
+    },
+    "Newt Scamander": {
+        "Miranda Goshawk": 1,
+        "Adalbert Waffling": 1,
+        "Phyllida Spore Magical Drafts": 1,
+        "Quentin Trimble": 1
+    },
+    "Quentin Trimble": {
+        "Miranda Goshawk": 1,
+        "Adalbert Waffling": 1,
+        "Phyllida Spore Magical Drafts": 1,
+        "Newt Scamander": 1
+    },
+    "Tom": {
+        "Hogwarts": 1,
+        "Hagrid": 1,
+        "Harry": 2
+    },
+    "Doris Crockford": {
+        "Potter": 1,
+        "Harry": 2,
+        "Hagrid": 1
+    },
+    "Diggle": {
+        "Potter": 1,
+        "Dedalus Diggle": 1
+    },
+    "Dedalus Diggle’s": {
+        "Harry": 1
+    },
+    "Quirrell": {
+        "Hagrid": 1,
+        "Harry": 21,
+        "yeh": 1,
+        "Ollivander": 1,
+        "Seamus Finnigan": 2,
+        "Weasley": 3,
+        "Hermione": 1,
+        "Snape": 3,
+        "Flitwick": 1,
+        "Voldemort": 3
+    },
+    "Diagon Alley": {
+        "Hagrid": 2,
+        "Harry": 2,
+        "Weasleys": 1
+    },
+    "Barn": {
+        "Brown": 1,
+        "Snowy": 1
+    },
+    "Brown": {
+        "Barn": 1,
+        "Snowy": 1
+    },
+    "Snowy": {
+        "Barn": 1,
+        "Brown": 1
+    },
+    "Harry Potter’s": {},
+    "Griphook": {
+        "Hagrid": 1,
+        "Harry": 1,
+        "Gringotts": 1
+    },
+    "Sickles": {
+        "Knuts": 2
+    },
+    "Malkin": {
+        "Harry": 3,
+        "Hagrid": 1
+    },
+    "Slytherin": {
+        "Harry": 2,
+        "Malfoy": 2,
+        "Snape": 1,
+        "Madam Pomfrey": 1
+    },
+    "Mmm": {
+        "Harry": 1
+    },
+    "Madam Malkin": {
+        "Harry": 2
+    },
+    "Muggle": {},
+    "Quidditch": {
+        "Harry": 2,
+        "Malfoy": 1
+    },
+    "Hufflepuff": {
+        "Harry": 1,
+        "Hannah": 1,
+        "Snape": 3,
+        "Ron": 1,
+        "George Weasley": 1,
+        "Gryffindor": 1,
+        "Malfoy": 1,
+        "Dumbledore": 1,
+        "Ravenclaw": 1
+    },
+    "Better Hufflepuff": {
+        "Hagrid": 1
+    },
+    "Blotts": {},
+    "Vindictus Viridian": {
+        "Hagrid": 1,
+        "Harry": 1
+    },
+    "Ollivanders": {},
+    "Ollivander": {
+        "Harry": 6,
+        "Hagrid": 2,
+        "Quirrell": 1
+    },
+    "Oak": {},
+    "Hedwig": {
+        "Hogwarts": 1,
+        "Dursleys": 1,
+        "Harry": 3,
+        "Hagrid Harry": 1,
+        "Ron": 1,
+        "Hagrid": 1,
+        "Dumbledore": 2
+    },
+    "Ginny": {},
+    "Percy": {
+        "Bill": 1,
+        "Charlie": 1,
+        "Scabbers": 1,
+        "Weasley": 1,
+        "Dumbledore": 1,
+        "Gryffindor": 1,
+        "Hermione": 1,
+        "Ron": 1,
+        "Harry": 2,
+        "Snape": 1
+    },
+    "Fred": {
+        "George Weasley": 5,
+        "George": 9,
+        "Ron": 2,
+        "Snape": 1,
+        "Harry": 7,
+        "Malfoy": 1,
+        "Crabbe": 1,
+        "Goyle": 1,
+        "Oliver": 1,
+        "Gryffindor Keeper Wood": 1,
+        "Quaffle": 2,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1,
+        "George Weasley bounded": 1
+    },
+    "I’m George": {},
+    "Ron": {
+        "Harry": 150,
+        "Fred": 2,
+        "George": 2,
+        "Dudley": 1,
+        "Hagrid": 18,
+        "Ron Weasley": 1,
+        "Gryffindor": 6,
+        "Scabbers": 3,
+        "Bill": 1,
+        "Gringotts": 3,
+        "Crabbe": 3,
+        "Goyle": 3,
+        "Neville": 16,
+        "Hermione": 76,
+        "Brocklehurst": 1,
+        "Mandy": 1,
+        "Ravenclaw": 1,
+        "Thomas": 1,
+        "Percy Weasley": 1,
+        "Zabini": 1,
+        "Blaise": 1,
+        "Hagrid Harry": 1,
+        "Hedwig": 1,
+        "Snape": 11,
+        "Fang": 1,
+        "Charlie": 3,
+        "Dean Thomas": 1,
+        "Dean": 3,
+        "Malfoy": 14,
+        "Norris": 2,
+        "Gryffindor Tower": 1,
+        "Hogwarts": 1,
+        "M. McGonagall Harry": 1,
+        "Flitwick": 2,
+        "Hermione Granger": 1,
+        "Parvati Patil": 1,
+        "Percy": 1,
+        "Wingardium Leviosal": 1,
+        "McGonagall": 1,
+        "Hermione ’s.": 1,
+        "Seamus": 1,
+        "Weasley": 1,
+        "Madam Pince": 1,
+        "Flamel": 4,
+        "Dumbledore": 5,
+        "Locomotor Mortis": 1,
+        "Hufflepuff": 1,
+        "George Weasley": 1,
+        "NORBERT": 1,
+        "Madam Pomfrey": 1,
+        "Voldemort": 1,
+        "Lee Jordan": 1,
+        "White": 1,
+        "D’you": 1,
+        "Ginny Weasley": 2
+    },
+    "Neville": {
+        "Harry": 25,
+        "Hermione Granger": 2,
+        "Ron": 16,
+        "Hermione": 10,
+        "Trevor": 3,
+        "GRYFFINDOR": 1,
+        "Gryffindor": 3,
+        "Draco Malfoy": 1,
+        "Hooch": 1,
+        "Madam Hooch": 2,
+        "Dean": 2,
+        "Seamus": 2,
+        "Bloody": 2,
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling": 1,
+        "Flitwick": 1,
+        "Seamus Finnigan": 1,
+        "Hagrid": 4,
+        "Malfoy": 13,
+        "Snape": 1,
+        "Crabbe": 3,
+        "Goyle": 2,
+        "Goyle single-": 1,
+        "McGonagall": 2,
+        "Fang": 3,
+        "Dumbledore": 1,
+        "Fred Weasley": 1,
+        "Bertie Bott’s": 1
+    },
+    "Lee": {},
+    "George": {
+        "Fred": 9,
+        "Ron": 2,
+        "Snape": 1,
+        "Malfoy": 1,
+        "Crabbe": 1,
+        "Goyle": 1,
+        "Harry": 2,
+        "Percy chase Fred": 1
+    },
+    "Aaah": {
+        "ickle Ronnie": 1
+    },
+    "ickle Ronnie": {
+        "Aaah": 1
+    },
+    "Percy the Prefect": {},
+    "ickle Ronniekins": {},
+    "Harry Potted": {
+        "Harry": 1
+    },
+    "Georg e\\": {},
+    "Lee Jordan’s": {},
+    "George Weasley": {
+        "Fred": 5,
+        "Harry": 2,
+        "Gryffindor Keeper Wood": 1,
+        "Quaffle": 2,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1,
+        "Ron": 1,
+        "Snape": 1,
+        "Hufflepuff": 1
+    },
+    "Mom": {},
+    "Weasleys": {
+        "Diagon Alley": 1,
+        "Hagrid": 1,
+        "Lee Jordan": 1,
+        "Chaser Bell": 1,
+        "Harry": 3,
+        "Wood": 1,
+        "Potter": 1,
+        "Longbottom": 1
+    },
+    "Bill": {
+        "Charlie": 5,
+        "Percy": 1,
+        "Gringotts": 1,
+        "Ron": 1,
+        "I’m Quidditch": 1
+    },
+    "Charlie": {
+        "Bill": 5,
+        "Percy": 1,
+        "Ron": 3,
+        "Hagrid": 2,
+        "Harry": 1,
+        "Weasley": 1,
+        "Malfoy": 1,
+        "Norbert": 3
+    },
+    "Scabbers": {
+        "Percy": 1,
+        "Harry": 2,
+        "Ron": 3,
+        "Goyle": 2,
+        "Crabbe": 1,
+        "Malfoy": 1
+    },
+    "Bertie Bott’s": {
+        "Licorice Wands": 1,
+        "Harry": 1,
+        "Neville": 1,
+        "Fred Weasley": 1,
+        "Hagrid": 1
+    },
+    "Licorice Wands": {
+        "Bertie Bott’s": 1,
+        "Harry": 1
+    },
+    "Agrippa": {},
+    "Ptolemy": {},
+    "HOGWARTS": {
+        "Dumbledore": 1,
+        "Nicolas Flamel": 1
+    },
+    "Nicolas Flamel": {
+        "HOGWARTS": 1,
+        "Dumbledore": 4,
+        "Harry": 3,
+        "Hermione": 1,
+        "Nicolas": 1
+    },
+    "Morgana": {
+        "Dumbledore": 1,
+        "Paracelsus": 1,
+        "Merlin": 1
+    },
+    "Paracelsus": {
+        "Dumbledore": 1,
+        "Morgana": 1,
+        "Merlin": 1
+    },
+    "Merlin": {
+        "Dumbledore": 1,
+        "Morgana": 1,
+        "Paracelsus": 1
+    },
+    "Sunshine": {},
+    "Hermione Granger": {
+        "Harry": 1,
+        "Neville": 2,
+        "McGonagall": 1,
+        "Hermione": 1,
+        "iVo": 1,
+        "Ron": 1,
+        "Harry Potter": 1
+    },
+    "Ron Weasley": {
+        "Ron": 1
+    },
+    "Hermione": {
+        "Harry": 76,
+        "Ron": 76,
+        "Neville": 10,
+        "Granger": 1,
+        "Percy Weasley": 1,
+        "Hermione Granger": 1,
+        "McGonagall": 1,
+        "Snape": 10,
+        "Percy": 1,
+        "Malfoy": 3,
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling": 1,
+        "Parvati Patil": 2,
+        "Wingardium Leviosal": 1,
+        "Seamus": 1,
+        "Dean": 1,
+        "Hagrid": 11,
+        "Quirrell": 1,
+        "Nicolas Flamel": 1,
+        "Madam Pince": 1,
+        "Flamel": 1,
+        "Gryffindor": 2,
+        "Locomotor Mortis": 1,
+        "Crabbe": 1,
+        "Goyle": 1,
+        "Norbert": 2,
+        "Ronan": 1,
+        "Bane": 1,
+        "Madam Pomfrey": 1,
+        "Dumbledore": 2,
+        "Alohomora Charm": 1,
+        "Uncle Vernon": 1
+    },
+    "Gryffindor": {
+        "Dumbledore": 1,
+        "Ravenclaw": 2,
+        "Ron": 6,
+        "Brocklehurst": 1,
+        "Mandy": 1,
+        "Harry": 10,
+        "Finnigan": 1,
+        "Seamus": 1,
+        "Thomas": 1,
+        "Percy": 1,
+        "Neville": 3,
+        "Snape": 5,
+        "Draco Malfoy": 1,
+        "Wood": 2,
+        "McGonagall": 2,
+        "Keeper": 1,
+        "I’m Keeper": 1,
+        "Granger": 1,
+        "Dean": 1,
+        "Quaffle": 3,
+        "Angelina Johnson": 1,
+        "JORDAN": 1,
+        "Gryffindor Keeper Wood": 1,
+        "Katie Bell": 1,
+        "Adrian Pucey": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1,
+        "Madam Hooch": 1,
+        "Spinnet": 2,
+        "Lee Jordan": 1,
+        "Weasley": 1,
+        "Hermione": 2,
+        "Malfoy": 2,
+        "Hufflepuff": 1,
+        "Potter": 1,
+        "Longbottom": 1,
+        "Hogwarts": 1
+    },
+    "Ravenclaw": {
+        "Gryffindor": 2,
+        "Dumbledore": 2,
+        "Set Gryffindors": 1,
+        "Brocklehurst": 1,
+        "Mandy": 1,
+        "Harry": 1,
+        "Ron": 1,
+        "Hufflepuff": 1
+    },
+    "Crabbe": {
+        "Goyle": 19,
+        "Harry": 5,
+        "Ron": 3,
+        "Malfoy": 13,
+        "Scabbers": 1,
+        "Draco Malfoy": 1,
+        "McGonagall": 1,
+        "Fred": 1,
+        "George": 1,
+        "Neville": 3,
+        "Hermione": 1,
+        "Goyle single-": 1
+    },
+    "Goyle": {
+        "Crabbe": 19,
+        "Harry": 5,
+        "Ron": 3,
+        "Ron — Ron": 2,
+        "Malfoy": 12,
+        "Scabbers": 2,
+        "Draco Malfoy": 1,
+        "McGonagall": 1,
+        "Fred": 1,
+        "George": 1,
+        "Neville": 2,
+        "Hermione": 1
+    },
+    "Malfoy": {
+        "Draco Malfoy": 1,
+        "Goyle": 12,
+        "Crabbe": 13,
+        "Scabbers": 1,
+        "Harry": 33,
+        "Slytherin": 2,
+        "Snape": 8,
+        "Hagrid": 3,
+        "McGonagall": 4,
+        "Remembrall": 1,
+        "Ron": 14,
+        "Parvati Patil": 1,
+        "Fred": 1,
+        "George": 1,
+        "Hermione": 3,
+        "Filch": 1,
+        "Hogwarts": 1,
+        "Weasley": 2,
+        "Flitwick": 1,
+        "Potters": 1,
+        "Quidditch": 1,
+        "Neville": 13,
+        "Gryffindor": 2,
+        "Hufflepuff": 1,
+        "Goyle single-": 1,
+        "Dumbledore": 1,
+        "Norbert": 3,
+        "Madam Pomfrey": 1,
+        "Charlie": 1,
+        "Fang": 6
+    },
+    "Draco Malfoy": {
+        "Malfoy": 1,
+        "Crabbe": 1,
+        "Goyle": 1,
+        "Dudley": 1,
+        "Neville": 1,
+        "Gryffindor": 1,
+        "Harry": 1
+    },
+    "Ron — Ron": {
+        "Goyle": 2
+    },
+    "Ron darkly": {},
+    "Trevor": {
+        "Neville": 3
+    },
+    "Friar": {},
+    "Set Gryffindors": {
+        "Ravenclaw": 1
+    },
+    "Abbott": {
+        "Hannah": 1
+    },
+    "Hannah": {
+        "Abbott": 1,
+        "Hufflepuff": 1,
+        "Susan": 1
+    },
+    "Susan": {
+        "Hannah": 1
+    },
+    "Boot": {},
+    "Ravenclaws": {
+        "Terry": 1
+    },
+    "Terry": {
+        "Ravenclaws": 1
+    },
+    "Brocklehurst": {
+        "Mandy": 1,
+        "Ravenclaw": 1,
+        "Gryffindor": 1,
+        "Harry": 1,
+        "Ron": 1
+    },
+    "Mandy": {
+        "Brocklehurst": 1,
+        "Ravenclaw": 1,
+        "Gryffindor": 1,
+        "Harry": 1,
+        "Ron": 1
+    },
+    "Finnigan": {
+        "Seamus": 1,
+        "Harry": 1,
+        "Gryffindor": 1
+    },
+    "Seamus": {
+        "Finnigan": 1,
+        "Harry": 8,
+        "Gryffindor": 1,
+        "Dean": 2,
+        "Neville": 2,
+        "Ron": 1,
+        "Hermione": 1
+    },
+    "Granger": {
+        "Hermione": 1,
+        "McGonagall": 2,
+        "Gryffindor": 1,
+        "Snape": 1,
+        "Ronald Weasley": 1
+    },
+    "GRYFFINDOR": {
+        "Neville": 1,
+        "Harry": 1
+    },
+    "Neville Longbottom": {},
+    "Moon": {
+        "Nott": 1,
+        "Anne": 1
+    },
+    "Nott": {
+        "Moon": 1,
+        "Anne": 1
+    },
+    "Anne": {
+        "Moon": 1,
+        "Nott": 1
+    },
+    "Not Slytherin": {
+        "Harry": 1
+    },
+    "Weasley": {
+        "Percy": 1,
+        "Dumbledore": 1,
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling": 1,
+        "Seamus Finnigan": 1,
+        "Quirrell": 3,
+        "Hogwarts": 1,
+        "McGonagall": 2,
+        "Patil": 1,
+        "Malfoy": 2,
+        "Lee Jordan": 2,
+        "Ron": 1,
+        "Charlie": 1,
+        "Gryffindor": 1,
+        "Harry": 2,
+        "Longbottom": 1
+    },
+    "Thomas": {
+        "Ron": 1,
+        "Harry": 1,
+        "Gryffindor": 1
+    },
+    "Turpin": {
+        "Lisa": 1
+    },
+    "Lisa": {
+        "Turpin": 1
+    },
+    "Percy Weasley": {
+        "Ron": 1,
+        "Harry": 2,
+        "Zabini": 1,
+        "Blaise": 1,
+        "Hermione": 1
+    },
+    "Zabini": {
+        "Ron": 1,
+        "Percy Weasley": 1,
+        "Harry": 1,
+        "Blaise": 1
+    },
+    "Blaise": {
+        "Ron": 1,
+        "Percy Weasley": 1,
+        "Harry": 1,
+        "Zabini": 1
+    },
+    "Nicholas de Mimsy-Porpington": {},
+    "Gryffindor Tower": {
+        "Ron": 1
+    },
+    "Nicholas de Mimsy": {
+        "Seamus Finnigan": 1
+    },
+    "Seamus Finnigan": {
+        "Nicholas de Mimsy": 1,
+        "Quirrell": 2,
+        "Weasley": 1,
+        "Harry": 3,
+        "Neville": 1
+    },
+    "Nicholas": {},
+    "Bloody": {
+        "Neville": 2
+    },
+    "Headless Nick": {
+        "Gryffindors": 1
+    },
+    "Enid": {},
+    "Uncle Algie": {},
+    "Snape": {
+        "Harry": 33,
+        "Slytherin": 1,
+        "Malfoy": 8,
+        "Flitwick": 5,
+        "McGonagall": 3,
+        "Dursleys": 1,
+        "Hermione": 10,
+        "Potter": 1,
+        "Gryffindor": 5,
+        "Ron": 11,
+        "Fred": 1,
+        "George": 1,
+        "Hagrid": 9,
+        "Percy": 1,
+        "Quirrell": 3,
+        "Hogwarts": 1,
+        "Flamel": 1,
+        "Norris": 1,
+        "Neville": 1,
+        "Hufflepuff": 3,
+        "Dumbledore": 1,
+        "George Weasley": 1,
+        "Severus": 1,
+        "Voldemort": 6,
+        "Granger": 1
+    },
+    "Filch": {
+        "Norris": 1,
+        "Malfoy": 1
+    },
+    "Madam Hooch": {
+        "Neville": 2,
+        "Gryffindor": 1
+    },
+    "the Philosophers Stone -J.K.": {
+        "Harry Potter": 1,
+        "Rowling Harry": 1
+    },
+    "Rowling Harry": {
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K.": 1
+    },
+    "Hoggy Warty Hogwarts": {
+        "Harry Potter": 1,
+        "the Philosophers Stone -J.K. Rowling": 1
+    },
+    "Gryffindors": {
+        "Headless Nick": 1,
+        "Harry": 1,
+        "Dumbledore": 1
+    },
+    "Norris": {
+        "Fang": 1,
+        "Harry": 3,
+        "Ron": 2,
+        "Filch": 1,
+        "Snape": 1
+    },
+    "Sprout": {},
+    "Binns": {
+        "Harry": 1
+    },
+    "Flitwick": {
+        "Snape": 5,
+        "Harry": 3,
+        "Wood": 2,
+        "Ron": 2,
+        "Malfoy": 1,
+        "Neville": 1,
+        "Hagrid": 1,
+        "McGonagall": 1,
+        "Dumbledore": 1,
+        "Quirrell": 1
+    },
+    "Hagrid Harry": {
+        "Ron": 1,
+        "Hedwig": 1
+    },
+    "Tut": {},
+    "Fang": {
+        "Hagrid": 6,
+        "Ron": 1,
+        "Norris": 1,
+        "Malfoy": 6,
+        "Harry": 4,
+        "Neville": 3
+    },
+    "GRINGOTTS": {
+        "Gringotts": 1
+    },
+    "Harry darkly": {},
+    "the Philosophers Stone -J.K. Rowling Malfoy": {
+        "Harry Potter": 1
+    },
+    "Dean Thomas": {
+        "Ron": 1
+    },
+    "Dean": {
+        "Harry": 2,
+        "Ron": 3,
+        "Seamus": 2,
+        "Neville": 2,
+        "Hermione": 1,
+        "Gryffindor": 1
+    },
+    "Remembrall": {
+        "Malfoy": 1
+    },
+    "Hermione Granger’s": {},
+    "Hooch": {
+        "Neville": 1
+    },
+    "Parvati Patil": {
+        "Malfoy": 1,
+        "Harry": 1,
+        "Ron": 1,
+        "Hermione": 2
+    },
+    "Longbottom": {
+        "Pansy Parkinson": 1,
+        "Potter": 1,
+        "Weasleys": 1,
+        "Weasley": 1,
+        "Gryffindor": 1
+    },
+    "Pansy Parkinson": {
+        "Longbottom": 1
+    },
+    "Parvati": {},
+    "iVo": {
+        "Hermione Granger": 1
+    },
+    "HARRY POTTER": {},
+    "Patil": {
+        "Hogwarts": 1,
+        "McGonagall": 1,
+        "Weasley": 1
+    },
+    "Wood": {
+        "Flitwick": 2,
+        "Harry": 17,
+        "McGonagall": 3,
+        "Gryffindor": 2,
+        "Bludger": 1,
+        "Weasleys": 1
+    },
+    "Oliver Wood": {
+        "Potter": 1
+    },
+    "Charlie Weasley": {},
+    "Cleansweep": {},
+    "Severus Snape": {},
+    "Seeker": {
+        "Harry": 3
+    },
+    "Lee Jordan": {
+        "Weasley": 2,
+        "McGonagall": 1,
+        "Weasleys": 1,
+        "Chaser Bell": 1,
+        "Harry": 1,
+        "Gryffindor": 1,
+        "Ron": 1
+    },
+    "Gregory": {},
+    "Ickle Firsties": {},
+    "Peeves": {
+        "Harry": 1
+    },
+    "Sha": {},
+    "M. McGonagall Harry": {
+        "Ron": 1
+    },
+    "Keeper": {
+        "I’m Keeper": 1,
+        "Gryffindor": 1,
+        "Harry": 1
+    },
+    "I’m Keeper": {
+        "Keeper": 1,
+        "Gryffindor": 1
+    },
+    "Bludger": {
+        "Wood": 1
+    },
+    "Quaffle": {
+        "Angelina Johnson": 1,
+        "Gryffindor": 3,
+        "JORDAN": 1,
+        "Alicia Spinnet": 1,
+        "Oliver Wood’s": 1,
+        "Johnson": 3,
+        "Marcus Flint": 1,
+        "Gryffindor Keeper Wood": 2,
+        "Katie Bell": 2,
+        "Adrian Pucey": 2,
+        "Fred": 2,
+        "George Weasley": 2,
+        "the Gryffindor Beater": 2
+    },
+    "Wingardium Leviosal": {
+        "Hermione": 1,
+        "Ron": 1
+    },
+    "Professor Flitwick": {},
+    "Hermione ’s.": {
+        "Ron": 1
+    },
+    "Quidditch Through the Ages": {},
+    "Quidditch Through the Ages back": {},
+    "Angelina Johnson": {
+        "Quaffle": 1,
+        "Gryffindor": 1,
+        "JORDAN": 1
+    },
+    "Fred Weasley": {
+        "Harry": 1,
+        "Neville": 1,
+        "Hagrid": 1,
+        "Bertie Bott’s": 1
+    },
+    "Oliver": {
+        "Fred": 1,
+        "Harry": 1
+    },
+    "Marcus Flint": {
+        "Harry": 4,
+        "Alicia Spinnet": 1,
+        "Oliver Wood’s": 1,
+        "Johnson": 1,
+        "Quaffle": 1
+    },
+    "JORDAN": {
+        "Quaffle": 1,
+        "Angelina Johnson": 1,
+        "Gryffindor": 1
+    },
+    "Alicia Spinnet": {
+        "Oliver Wood’s": 1,
+        "Johnson": 1,
+        "Quaffle": 1,
+        "Marcus Flint": 1
+    },
+    "Oliver Wood’s": {
+        "Alicia Spinnet": 1,
+        "Johnson": 1,
+        "Quaffle": 1,
+        "Marcus Flint": 1
+    },
+    "Johnson": {
+        "Alicia Spinnet": 1,
+        "Oliver Wood’s": 1,
+        "Quaffle": 3,
+        "Marcus Flint": 1,
+        "Gryffindor Keeper Wood": 1,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "the Gryffindor Beater": 1
+    },
+    "Gryffindor Keeper Wood": {
+        "Quaffle": 2,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1
+    },
+    "Katie Bell": {
+        "Gryffindor Keeper Wood": 1,
+        "Quaffle": 2,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1
+    },
+    "Adrian Pucey": {
+        "Gryffindor Keeper Wood": 1,
+        "Quaffle": 2,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "the Gryffindor Beater": 1,
+        "Johnson": 1
+    },
+    "the Gryffindor Beater": {
+        "Gryffindor Keeper Wood": 1,
+        "Quaffle": 2,
+        "Katie Bell": 1,
+        "Gryffindor": 1,
+        "Adrian Pucey": 1,
+        "Fred": 1,
+        "George Weasley": 1,
+        "Johnson": 1
+    },
+    "Bin watchin’": {
+        "Hagrid": 1
+    },
+    "Angelina": {
+        "Harry": 1
+    },
+    "Chaser Bell": {
+        "Lee Jordan": 1,
+        "Weasleys": 1
+    },
+    "Seeker Terence Higgs": {},
+    "Higgs": {
+        "Harry": 1
+    },
+    "Jordan": {
+        "McGonagall": 1
+    },
+    "Spinnet": {
+        "Gryffindor": 2
+    },
+    "Reaching Snape": {},
+    "Flamel": {
+        "Hagrid": 1,
+        "Snape": 1,
+        "Ron": 4,
+        "Hermione": 1,
+        "Madam Pince": 1,
+        "Harry": 2,
+        "Devon": 1
+    },
+    "Pince": {},
+    "Madam Pince": {
+        "Ron": 1,
+        "Hermione": 1,
+        "Flamel": 1
+    },
+    "George Weasley bounded": {
+        "Fred": 1
+    },
+    "Percy thickly": {},
+    "Percy chase Fred": {
+        "George": 1
+    },
+    "I’m Quidditch": {
+        "Bill": 1
+    },
+    "Ronald Weasley": {
+        "Granger": 1
+    },
+    "NICHOLAS FLAMBL Dumbledore": {
+        "Harry": 1
+    },
+    "D’you": {
+        "Ron": 1
+    },
+    "Nicolas Flamel’V’ Hermione": {
+        "Dumbledore": 1
+    },
+    "Ron grumpily": {},
+    "Devon": {
+        "Flamel": 1
+    },
+    "Locomotor Mortis": {
+        "Hermione": 1,
+        "Ron": 1
+    },
+    "Severus": {
+        "Snape": 1
+    },
+    "Goyle single-": {
+        "Malfoy": 1,
+        "Neville": 1,
+        "Crabbe": 1
+    },
+    "NORBERT": {
+        "Ron": 1
+    },
+    "RIDGEBACK Quirrell": {},
+    "yeh anythin’": {},
+    "bush": {},
+    "bin": {
+        "Hagrid": 1
+    },
+    "Norbert": {
+        "Hagrid": 4,
+        "Harry": 3,
+        "Malfoy": 3,
+        "Charlie": 3,
+        "Hermione": 2
+    },
+    "Neville — Harry": {},
+    "bin waitin’ fer": {},
+    "Bin lecturin’": {},
+    "Ronan": {
+        "Hagrid": 6,
+        "yeh": 1,
+        "Bane": 5,
+        "Harry": 2,
+        "Hermione": 1,
+        "Firenze": 1
+    },
+    "Anythin": {},
+    "Hullo": {
+        "Bane": 1,
+        "Hagrid": 1
+    },
+    "Bane": {
+        "Hullo": 1,
+        "Hagrid": 1,
+        "Ronan": 5,
+        "Harry": 2,
+        "Hermione": 1,
+        "Firenze": 2
+    },
+    "bin killin’": {
+        "yeh": 1
+    },
+    "Hermione grabbed Hagrid": {},
+    "Firenze": {
+        "Harry": 1,
+        "Ronan": 1,
+        "Bane": 2,
+        "Harry Potter": 1
+    },
+    "Mighta": {
+        "Hagrid": 1
+    },
+    "yeh goin’?": {},
+    "Baron": {},
+    "Peevsie": {},
+    "Alohomora Charm": {
+        "Hermione": 1
+    },
+    "White": {
+        "Ron": 1
+    },
+    "Stone": {},
+    "Harry blankly": {},
+    "Nicolas": {
+        "Nicolas Flamel": 1,
+        "Dumbledore": 1
+    },
+    "yeh didn’": {
+        "askin’ fer": 1
+    },
+    "Madam Pomfrey’s": {},
+    "Ginny Weasley": {
+        "Ron": 2
+    }
+}
